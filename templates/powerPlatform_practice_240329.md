@@ -1,6 +1,6 @@
 # Power Platform 활용 핸즈온 Wrap-Up
 
-안녕하세요 참여자 여러분. 어제 진행했던 핸즈온 프로그램 관련해 Wrap Up 메일을 보내드립니다. 
+{{ NAME }}님 안녕하세요. 오늘 진행한 핸즈온 프로그램 관련해 Wrap Up 메일을 보내드립니다. 
 
 ## 코드 없이 자동화를 한다고? 
 
@@ -12,9 +12,7 @@
 
 ## 동아리 모집 자동화
 
-첫번째 세션은 Power Automate를 활용해 동아리 행사 수료증을 자동으로 보내는 실습을 진행했습니다. 폼 신청시 자동으로 메일을 발송합니다. 아래는 결과물입니다.
-
-![](https://private-user-images.githubusercontent.com/125184499/313386173-c775becf-b164-4e3f-a196-352f3566fa81.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE3OTUzNzUsIm5iZiI6MTcxMTc5NTA3NSwicGF0aCI6Ii8xMjUxODQ0OTkvMzEzMzg2MTczLWM3NzViZWNmLWIxNjQtNGUzZi1hMTk2LTM1MmYzNTY2ZmE4MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMzMFQxMDM3NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mY2I1MmFlNWUxNzQyYjc1NWMxNDNkZmI2ZTViMjJiOWFlOWY0MWZlYzQzNGVmYjE4Nzc4OWZiZDRjYjA2M2Q4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.mEOKqnXYltYbiYm5_9Cw0pGHYsJ0qhxndXpzbq6woF0)
+첫번째 세션은 Power Automate를 활용해 동아리 참가자에세 응답 메일을 자동으로 보내는 실습을 진행했습니다. 폼 신청시 자동으로 메일을 발송합니다.
 
 1. 폼 제출
 2. 기존 문서 빠른 항목 동기화
@@ -67,3 +65,5 @@ MLSA와 함께 온라인으로 공부할 수 있는 기회가 있습니다! 클�
 
 * [해커그라운드 디스코드](https://aka.ms/hg/discord)
 * [대경 클라우드 학생 개발자 오카방](https://aka.ms/student-developers/daegu) (비밀번호 8080)
+* [해커그라운드 인스타](https://www.instagram.com/hackers_ground/)
+* [해커그라운드 링크드인](https://kr.linkedin.com/showcase/hackersground-kr/)
