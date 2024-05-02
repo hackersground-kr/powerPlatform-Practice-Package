@@ -55,7 +55,7 @@ MLSA와 함께 온라인으로 공부할 수 있는 기회가 있습니다! 클�
 
 시총 1등 기업이 알려주는 프로그래밍 스킬업 기회! 여러분들도 함께하세요.  
 
-* [클라우드 스킬 챌린지 신청하기](https://aka.ms/hg/csc/register)
+* [클라우드 스킬 챌린지 신청하기](https://aka.ms/hg/csc)
 * [클스챌 스트리밍 플레이리스트](https://aka.ms/hg/csc/playlist)
 
 <img src="https://github.com/hackersground-kr/GlobalAIBootcamp/blob/main/assets/cloud_skills_challenge.png?raw=true" width=70% height=auto alt="mlsa"/>
